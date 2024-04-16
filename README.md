@@ -13,18 +13,25 @@
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+Podemos ver aqui as variaveis de iniciação do código e a função de números iguais que compara um número com seus correspondentes na mesma linha, coluna e quadro 3x3
+
+![Código Inicial do Projeto](img/printCodInicio.PNG)
+
+Já aqui encontramos a função que rege a solução do sudoku por meio de uma BFS
+
+![Função Principal do Projeto](img/printCodResolverSudoku.PNG)
+
+Esse é o resultado em exibição: 
+
+![Resultado da Execução do Código](img/printExecCodSudoku.PNG)
 
 ## Instalação 
 **Linguagem**: C<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+Para utilizar o programa é necessário ter a linguagem C
+instalada no computador juntamente com um compilador.
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Para executar o código basta tê-lo em sua máquina e realizar a compilação, após isso o resultado irá aparecer em seu terminal
